@@ -1,5 +1,5 @@
-# Evadare: Unofficial Web Port (0.5.0)
-The final update for Evadare on web! <br>
-I have no words, this is and was absolutely amazing!
+# Rems Modding Build Unofficial Web Port
+This is just a test to see if the modding build <br>
+is available for web
 
-*Mod by Rem and others*
+*Mod by Rem*
